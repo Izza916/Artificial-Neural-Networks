@@ -1,0 +1,24 @@
+{
+  "description": "Pose2Caption Dataset",
+  "version": "1.0",
+  "categories": {
+    "yoga": [
+      "tadasana",
+      "utkatasana",
+      "virabhadrasana"
+    ],
+    "fitness": [
+      "squat",
+      "lunge",
+      "pushup"
+    ],
+    "daily": [
+      "standing",
+      "sitting",
+      "walking"
+    ]
+  },
+  "stats": {
+    "total_images": 20
+  }
+}

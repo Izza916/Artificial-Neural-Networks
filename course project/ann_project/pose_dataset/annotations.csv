@@ -1,0 +1,21 @@
+image_path,category,pose_type,caption,features,validation_status
+pose_dataset/yoga_tadasana_0.jpg,yoga,tadasana,Person standing straight in mountain pose,,pending
+pose_dataset/yoga_MATYASANA_1.jpg,yoga,MATYASANA,"Person reclining on his back with head resting on the floor, while arching back and lifting chest",,pending
+pose_dataset/yoga_PASCHIMOTTASANA_2.jpg,yoga,PASCHIMOTTASANA,Person bending forward and touching the toes with the hands while keeping legs straight,,pending
+pose_dataset/fitness_squat_3.jpg,fitness,squat,Person performing a deep squat,,pending
+pose_dataset/fitness_Quarter_Turns_4.jpg,fitness,Quarter_Turns,"A person's sequence of movements of body rotation in 90-degree increments, showcasing physique from different angles",,pending
+pose_dataset/fitness_Rear_Lat_Spread_5.jpg,fitness,Rear_Lat_Spread,"Person brings hands to waist, placing thumbs around obliques while fingers wrap around toward back",,pending
+pose_dataset/clinical_tv_watching_posture_6.jpg,clinical,tv_watching_posture,Man sitting in a relaxed posture while watching TV,,pending
+pose_dataset/clinical_office_posture_2_7.jpg,clinical,office_posture_2,"Person seated at a desk, leaning forward toward a screen",,pending
+pose_dataset/physiotherapy_leg_raise_exercise_8.jpg,physiotherapy,leg_raise_exercise,Patient performing a leg raise while lying flat,,pending
+pose_dataset/physiotherapy_arm_extension_9.jpg,physiotherapy,arm_extension,Patient extending arms outward as part of therapy,,pending
+pose_dataset/physiotherapy_ankle_mobility_10.jpg,physiotherapy,ankle_mobility,Patient rotating ankle while seated during therapy,,pending
+pose_dataset/physiotherapy_knee_flexion_11.jpg,physiotherapy,knee_flexion,Patient flexing knee with physiotherapist’s assistance,,pending
+pose_dataset/prayer_qiyam_12.jpg,prayer,qiyam,Person standing straight with hands folded over chest during prayer,,pending
+pose_dataset/prayer_ruku_front_13.jpg,prayer,ruku_front,Person bowing forward with back straight and hands on knees,,pending
+pose_dataset/prayer_ruku_side_14.jpg,prayer,ruku_side,Side view of bowing posture with hands on knees,,pending
+pose_dataset/prayer_sajdah_15.jpg,prayer,sajdah,Person kneeling with forehead touching the ground in prostration,,pending
+pose_dataset/prayer_salam_16.jpg,prayer,salam,Person turning head to the right in final part of prayer,,pending
+pose_dataset/prayer_takbeer_17.jpg,prayer,takbeer,Person raising both hands to ears at the start of prayer,,pending
+pose_dataset/prayer_tashhud_18.jpg,prayer,tashhud,Person sitting on legs with index finger pointing during prayer,,pending
+pose_dataset/daily_watching_19.jpg,daily,watching,standing upright with 180 degree.,"{""posture"": {""alignment"": ""poor"", ""lean"": ""forward""}, ""joint_angles"": {""right_elbow"": 29.038577746049313, ""left_elbow"": 32.34006064039821, ""right_knee"": 67.8417117465151, ""left_knee"": 70.64722092657172}, ""symmetry"": {""shoulder_level"": 5.74185848236084, ""hip_level"": 6.826601028442383, ""arm_angle_diff"": 3.3014828943488936, ""nose_hip_diff"": -181.19160890579224}, ""facial"": {}, ""gestures"": []}",pending
